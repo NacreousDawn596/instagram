@@ -1,3 +1,8 @@
+'''
+github: https://github.com/NacreousDawn596/
+instagram: @kamal.afriad_official
+'''
+
 import os
 
 import requests
