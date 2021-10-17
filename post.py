@@ -44,7 +44,7 @@ def post(content):
 		
 		pass
 
-	bot.login(username = "bruh_quotes_official", password = "ughbruh")
+	bot.login(username = "USERNAME", password = "PASSWORD")
 	
 	os.system("rm post.jpeg")
 	
@@ -153,5 +153,3 @@ def posted(text):
 	img.save('post.jpeg', 'JPEG')
 
 start()
-	
-	
