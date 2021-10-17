@@ -1,0 +1,22 @@
+2021-10-16 22:24:10,216 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-10-16 22:24:10,217 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/nacreousdawn596/.local/lib/python3.8/site-packages/instabot/bot/bot.py
+2021-10-16 22:24:10,218 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2021-10-16 22:24:10,558 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2021-10-16 22:24:10,985 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-10-16 22:24:11,318 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-10-16 22:24:11,636 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2021-10-16 22:24:14,197 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2021-10-16 22:24:14,198 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'NacreousDawn596'!
+2021-10-16 22:24:14,199 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2021-10-16 22:24:14,659 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-10-16 22:24:15,085 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-10-16 22:24:15,606 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-1d5c4a7fa1ece4b5&token_hash=&custom_device_id=android-1d5c4a7fa1ece4b5&fetch_reason=token_expired returned response: <Response [200]>
+2021-10-16 22:24:16,016 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2021-10-16 22:24:16,948 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-10-16 22:24:17,485 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+2021-10-16 22:24:17,904 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2021-10-16 22:24:18,475 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-10-16 22:24:20,413 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-10-16 22:24:20,823 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2021-10-16 22:24:21,051 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 22:24:21,052 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37

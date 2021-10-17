@@ -1,0 +1,78 @@
+2021-10-16 23:34:05,759 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-10-16 23:34:05,787 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/nacreousdawn596/.local/lib/python3.8/site-packages/instabot/bot/bot.py
+2021-10-16 23:34:05,789 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2021-10-16 23:34:06,259 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2021-10-16 23:34:06,878 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-10-16 23:34:07,518 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-10-16 23:34:07,929 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2021-10-16 23:34:09,788 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2021-10-16 23:34:09,790 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail","error_type":"rate_limit_error"}'
+2021-10-16 23:34:09,792 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2021-10-16 23:34:09,807 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2021-10-16 23:34:09,822 - instabot version: 0.117.0 (api) - INFO - Error type: rate_limit_error
+2021-10-16 23:34:09,835 - instabot version: 0.117.0 (api) - ERROR - Failed to login go to instagram and change your password
+2021-10-16 23:34:09,843 - instabot version: 0.117.0 (api) - INFO - Username or password is incorrect.
+2021-10-16 23:34:09,857 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:09,873 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:09,887 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:09,890 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:09,902 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:09,905 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:09,920 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:09,922 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:09,937 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:09,940 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:09,964 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:09,972 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:09,997 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,003 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,021 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,025 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,031 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,038 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,051 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,054 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,068 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,071 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,085 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,087 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,105 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,107 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,121 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,124 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,137 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,139 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,154 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,156 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,170 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,172 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,189 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,191 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,204 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,206 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,231 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,233 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,253 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,255 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,270 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,272 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,288 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,290 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,305 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,307 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,320 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,322 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,339 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,341 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,355 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,357 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,381 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,383 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,400 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,402 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,417 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,419 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,433 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,435 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2021-10-16 23:34:10,447 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/NacreousDawn596.checkpoint
+2021-10-16 23:34:10,449 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49

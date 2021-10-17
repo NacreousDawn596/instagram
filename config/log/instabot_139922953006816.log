@@ -1,0 +1,54 @@
+2021-10-17 11:27:31,893 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-10-17 11:27:31,898 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/nacreousdawn596/.local/lib/python3.8/site-packages/instabot/bot/bot.py
+2021-10-17 11:27:31,900 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2021-10-17 11:27:32,233 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2021-10-17 11:27:32,664 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-10-17 11:27:33,105 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-10-17 11:27:33,414 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2021-10-17 11:27:35,946 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2021-10-17 11:27:35,948 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'bruh_quotes_official'!
+2021-10-17 11:27:35,955 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2021-10-17 11:27:36,450 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-10-17 11:27:36,874 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-10-17 11:27:37,264 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-9def5abb09dbcc3a&token_hash=&custom_device_id=android-9def5abb09dbcc3a&fetch_reason=token_expired returned response: <Response [200]>
+2021-10-17 11:27:37,686 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2021-10-17 11:27:38,188 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-10-17 11:27:38,705 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+2021-10-17 11:27:39,094 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2021-10-17 11:27:39,564 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-10-17 11:27:40,576 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-10-17 11:27:40,964 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2021-10-17 11:27:41,577 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2021-10-17 11:27:41,974 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2021-10-17 11:27:42,444 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2021-10-17 11:27:42,914 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2021-10-17 11:27:43,179 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,180 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2021-10-17 11:27:43,186 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,188 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2021-10-17 11:27:43,193 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,194 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2021-10-17 11:27:43,200 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,201 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2021-10-17 11:27:43,206 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,208 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2021-10-17 11:27:43,213 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,214 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2021-10-17 11:27:43,219 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,220 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2021-10-17 11:27:43,228 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,229 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2021-10-17 11:27:43,235 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,240 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2021-10-17 11:27:43,245 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,246 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2021-10-17 11:27:43,252 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,253 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2021-10-17 11:27:43,258 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,259 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2021-10-17 11:27:43,265 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,266 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2021-10-17 11:27:43,271 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,272 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2021-10-17 11:27:43,283 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/nacreousdawn596/Documents/instagram/config/bruh_quotes_official.checkpoint
+2021-10-17 11:27:43,284 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
